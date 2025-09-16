@@ -5,7 +5,7 @@
 
 
 # GEOCONTROL-PROJECT-SOFTWARE-ENGENEERING
-![Uploading geocontrol.png…]()
+![alt text](geocontrol.png)
 
 
 <em>Empowering Precision, Accelerating Innovation in Geospatial Control</em>
